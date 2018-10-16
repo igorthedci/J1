@@ -1,0 +1,7 @@
+
+.allure
+.idea
+.idea/workspace.xml
+*.log
+.target
+
